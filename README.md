@@ -1,1 +1,5 @@
-# Data-Visualization-Challenge
+# Technologies Used
+Python
+Pandas
+Matplotlib
+Jupyter Notebook
